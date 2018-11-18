@@ -29,4 +29,4 @@ entonces:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}&space;=&space;x_{r}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}&space;=&space;x_{r}" title="x_{0} = x_{r}" /></a>
 
-Este método puede ser muy tardado por lo que más adelante se presentará el método de la falsa posición.
+Este método puede ser muy tardado por lo que más adelante se presentará el método de la falsa posición para un mejor tiempo de ejecución.
